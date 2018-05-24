@@ -1,0 +1,24 @@
+D:\Laboratory_works\WindowsFormsApp1\NUnit.Tests1_ArrayProcesor\bin\Debug\NUnit.Tests1_ArrayProcesor.dll
+D:\Laboratory_works\WindowsFormsApp1\NUnit.Tests1_ArrayProcesor\bin\Debug\NUnit.Tests1_ArrayProcesor.pdb
+D:\Laboratory_works\WindowsFormsApp1\NUnit.Tests1_ArrayProcesor\bin\Debug\Array Procesor.exe
+D:\Laboratory_works\WindowsFormsApp1\NUnit.Tests1_ArrayProcesor\bin\Debug\nunit.framework.dll
+D:\Laboratory_works\WindowsFormsApp1\NUnit.Tests1_ArrayProcesor\bin\Debug\Array Procesor.pdb
+D:\Laboratory_works\WindowsFormsApp1\NUnit.Tests1_ArrayProcesor\bin\Debug\Array Procesor.exe.config
+D:\Laboratory_works\WindowsFormsApp1\NUnit.Tests1_ArrayProcesor\bin\Debug\nunit.framework.xml
+D:\Laboratory_works\WindowsFormsApp1\NUnit.Tests1_ArrayProcesor\obj\Debug\NUnit.Tests1_ArrayProcesor.csproj.CoreCompileInputs.cache
+D:\Laboratory_works\WindowsFormsApp1\NUnit.Tests1_ArrayProcesor\obj\Debug\NUnit.Tests1_ArrayProcesor.dll
+D:\Laboratory_works\WindowsFormsApp1\NUnit.Tests1_ArrayProcesor\obj\Debug\NUnit.Tests1_ArrayProcesor.pdb
+D:\Laboratory_works\WindowsFormsApp1\NUnit.Tests1_ArrayProcesor\obj\Debug\NUnit.Tests1_ArrayProcesor.csprojResolveAssemblyReference.cache
+D:\Laboratory_works\WindowsFormsApp1\NUnit.Tests1_ArrayProcesor\obj\Debug\NUnit.Tests1_ArrayProcesor.csproj.CopyComplete
+D:\Laboratory_works\Тестирование\NUnit.Tests1_ArrayProcesor\bin\Debug\NUnit.Tests1_ArrayProcesor.dll
+D:\Laboratory_works\Тестирование\NUnit.Tests1_ArrayProcesor\bin\Debug\NUnit.Tests1_ArrayProcesor.pdb
+D:\Laboratory_works\Тестирование\NUnit.Tests1_ArrayProcesor\bin\Debug\Array Procesor.exe
+D:\Laboratory_works\Тестирование\NUnit.Tests1_ArrayProcesor\bin\Debug\nunit.framework.dll
+D:\Laboratory_works\Тестирование\NUnit.Tests1_ArrayProcesor\bin\Debug\Array Procesor.pdb
+D:\Laboratory_works\Тестирование\NUnit.Tests1_ArrayProcesor\bin\Debug\Array Procesor.exe.config
+D:\Laboratory_works\Тестирование\NUnit.Tests1_ArrayProcesor\bin\Debug\nunit.framework.xml
+D:\Laboratory_works\Тестирование\NUnit.Tests1_ArrayProcesor\obj\Debug\NUnit.Tests1_ArrayProcesor.csprojResolveAssemblyReference.cache
+D:\Laboratory_works\Тестирование\NUnit.Tests1_ArrayProcesor\obj\Debug\NUnit.Tests1_ArrayProcesor.csproj.CoreCompileInputs.cache
+D:\Laboratory_works\Тестирование\NUnit.Tests1_ArrayProcesor\obj\Debug\NUnit.Tests1_ArrayProcesor.csproj.CopyComplete
+D:\Laboratory_works\Тестирование\NUnit.Tests1_ArrayProcesor\obj\Debug\NUnit.Tests1_ArrayProcesor.dll
+D:\Laboratory_works\Тестирование\NUnit.Tests1_ArrayProcesor\obj\Debug\NUnit.Tests1_ArrayProcesor.pdb

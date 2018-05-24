@@ -1,0 +1,13 @@
+c:\users\kuxta\source\repos\Web-lab8\Web-lab8\bin\Debug\Web-lab8.exe.config
+c:\users\kuxta\source\repos\Web-lab8\Web-lab8\bin\Debug\Web-lab8.exe
+c:\users\kuxta\source\repos\Web-lab8\Web-lab8\bin\Debug\Web-lab8.pdb
+c:\users\kuxta\source\repos\Web-lab8\Web-lab8\bin\Debug\WebDriver.dll
+c:\users\kuxta\source\repos\Web-lab8\Web-lab8\bin\Debug\WebDriver.xml
+c:\users\kuxta\source\repos\Web-lab8\Web-lab8\obj\Debug\Web-lab8.csprojResolveAssemblyReference.cache
+c:\users\kuxta\source\repos\Web-lab8\Web-lab8\obj\Debug\Web_lab8.Form1.resources
+c:\users\kuxta\source\repos\Web-lab8\Web-lab8\obj\Debug\Web_lab8.Properties.Resources.resources
+c:\users\kuxta\source\repos\Web-lab8\Web-lab8\obj\Debug\Web-lab8.csproj.GenerateResource.cache
+c:\users\kuxta\source\repos\Web-lab8\Web-lab8\obj\Debug\Web-lab8.csproj.CoreCompileInputs.cache
+c:\users\kuxta\source\repos\Web-lab8\Web-lab8\obj\Debug\Web-lab8.csproj.CopyComplete
+c:\users\kuxta\source\repos\Web-lab8\Web-lab8\obj\Debug\Web-lab8.exe
+c:\users\kuxta\source\repos\Web-lab8\Web-lab8\obj\Debug\Web-lab8.pdb

@@ -1,0 +1,7 @@
+D:\Laboratory_works\Дополнительное_задание\Дополнительное_задание\bin\Debug\Дополнительное_задание.exe.config
+D:\Laboratory_works\Дополнительное_задание\Дополнительное_задание\bin\Debug\Дополнительное_задание.exe
+D:\Laboratory_works\Дополнительное_задание\Дополнительное_задание\bin\Debug\Дополнительное_задание.pdb
+D:\Laboratory_works\Дополнительное_задание\Дополнительное_задание\obj\Debug\Дополнительное_задание.csprojResolveAssemblyReference.cache
+D:\Laboratory_works\Дополнительное_задание\Дополнительное_задание\obj\Debug\Дополнительное_задание.csproj.CoreCompileInputs.cache
+D:\Laboratory_works\Дополнительное_задание\Дополнительное_задание\obj\Debug\Дополнительное_задание.exe
+D:\Laboratory_works\Дополнительное_задание\Дополнительное_задание\obj\Debug\Дополнительное_задание.pdb

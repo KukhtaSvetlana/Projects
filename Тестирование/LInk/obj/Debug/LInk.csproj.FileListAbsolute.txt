@@ -1,0 +1,13 @@
+D:\Laboratory_works\Тестирование\LInk\bin\Debug\LInk.exe.config
+D:\Laboratory_works\Тестирование\LInk\bin\Debug\LInk.exe
+D:\Laboratory_works\Тестирование\LInk\bin\Debug\LInk.pdb
+D:\Laboratory_works\Тестирование\LInk\bin\Debug\StringFormat.exe
+D:\Laboratory_works\Тестирование\LInk\bin\Debug\StringFormat.pdb
+D:\Laboratory_works\Тестирование\LInk\bin\Debug\StringFormat.exe.config
+D:\Laboratory_works\Тестирование\LInk\obj\Debug\LInk.csprojResolveAssemblyReference.cache
+D:\Laboratory_works\Тестирование\LInk\obj\Debug\LInk.Properties.Resources.resources
+D:\Laboratory_works\Тестирование\LInk\obj\Debug\LInk.csproj.GenerateResource.cache
+D:\Laboratory_works\Тестирование\LInk\obj\Debug\LInk.csproj.CoreCompileInputs.cache
+D:\Laboratory_works\Тестирование\LInk\obj\Debug\LInk.csproj.CopyComplete
+D:\Laboratory_works\Тестирование\LInk\obj\Debug\LInk.exe
+D:\Laboratory_works\Тестирование\LInk\obj\Debug\LInk.pdb

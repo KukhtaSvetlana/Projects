@@ -1,0 +1,10 @@
+D:\Laboratory_works\WindowsFormsApp1\Rectangle\bin\Debug\Rectangle.exe.config
+D:\Laboratory_works\WindowsFormsApp1\Rectangle\bin\Debug\Rectangle.exe
+D:\Laboratory_works\WindowsFormsApp1\Rectangle\bin\Debug\Rectangle.pdb
+D:\Laboratory_works\WindowsFormsApp1\Rectangle\obj\Debug\Rectangle.csprojResolveAssemblyReference.cache
+D:\Laboratory_works\WindowsFormsApp1\Rectangle\obj\Debug\Rectangle.Form1.resources
+D:\Laboratory_works\WindowsFormsApp1\Rectangle\obj\Debug\Rectangle.Properties.Resources.resources
+D:\Laboratory_works\WindowsFormsApp1\Rectangle\obj\Debug\Rectangle.csproj.GenerateResource.Cache
+D:\Laboratory_works\WindowsFormsApp1\Rectangle\obj\Debug\Rectangle.csproj.CoreCompileInputs.cache
+D:\Laboratory_works\WindowsFormsApp1\Rectangle\obj\Debug\Rectangle.exe
+D:\Laboratory_works\WindowsFormsApp1\Rectangle\obj\Debug\Rectangle.pdb

@@ -1,0 +1,20 @@
+D:\Laboratory_works\WindowsFormsApp1\Array Procesor\bin\Debug\Array Procesor.exe.config
+D:\Laboratory_works\WindowsFormsApp1\Array Procesor\bin\Debug\Array Procesor.exe
+D:\Laboratory_works\WindowsFormsApp1\Array Procesor\bin\Debug\Array Procesor.pdb
+D:\Laboratory_works\WindowsFormsApp1\Array Procesor\obj\Debug\Array Procesor.csprojResolveAssemblyReference.cache
+D:\Laboratory_works\WindowsFormsApp1\Array Procesor\obj\Debug\Array_Procesor.Form1.resources
+D:\Laboratory_works\WindowsFormsApp1\Array Procesor\obj\Debug\Array_Procesor.Properties.Resources.resources
+D:\Laboratory_works\WindowsFormsApp1\Array Procesor\obj\Debug\Array Procesor.csproj.GenerateResource.Cache
+D:\Laboratory_works\WindowsFormsApp1\Array Procesor\obj\Debug\Array Procesor.csproj.CoreCompileInputs.cache
+D:\Laboratory_works\WindowsFormsApp1\Array Procesor\obj\Debug\Array Procesor.exe
+D:\Laboratory_works\WindowsFormsApp1\Array Procesor\obj\Debug\Array Procesor.pdb
+D:\Laboratory_works\Тестирование\Array Procesor\bin\Debug\Array Procesor.exe.config
+D:\Laboratory_works\Тестирование\Array Procesor\bin\Debug\Array Procesor.exe
+D:\Laboratory_works\Тестирование\Array Procesor\bin\Debug\Array Procesor.pdb
+D:\Laboratory_works\Тестирование\Array Procesor\obj\Debug\Array Procesor.csprojResolveAssemblyReference.cache
+D:\Laboratory_works\Тестирование\Array Procesor\obj\Debug\Array_Procesor.Form1.resources
+D:\Laboratory_works\Тестирование\Array Procesor\obj\Debug\Array_Procesor.Properties.Resources.resources
+D:\Laboratory_works\Тестирование\Array Procesor\obj\Debug\Array Procesor.csproj.GenerateResource.cache
+D:\Laboratory_works\Тестирование\Array Procesor\obj\Debug\Array Procesor.csproj.CoreCompileInputs.cache
+D:\Laboratory_works\Тестирование\Array Procesor\obj\Debug\Array Procesor.exe
+D:\Laboratory_works\Тестирование\Array Procesor\obj\Debug\Array Procesor.pdb
